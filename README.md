@@ -55,7 +55,7 @@ MongoDB: A NoSQL database used for storing application data.
 Installation
 Clone the Repository:
 
-git clone https://github.com/sushanthreddy009/Food_Delivery_Application.git
+git clone https://github.com/Srija2424/Food_Delivery_Application.git
 
 cd Food_Delivery_Application
 
